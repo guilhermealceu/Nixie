@@ -1,4 +1,5 @@
 # Nixie
+<img width="433" height="433" alt="image" src="https://github.com/user-attachments/assets/fad904ef-bc21-4354-a2b8-9dc044d9660e" />
 
 Nixie é uma assistente pessoal/IA model em desenvolvimento.
 
